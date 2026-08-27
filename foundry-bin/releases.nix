@@ -1,23 +1,23 @@
 {
   version = "0.0.0";
-  timestamp = "2026-08-25T22:29:35Z";
+  timestamp = "2026-08-27T03:40:45Z";
 
   sources = {
     "x86_64-linux" = {
-      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-8e47a24a36283247c57fd735d1e6db961ca5efc1/foundry_nightly_linux_amd64.tar.gz";
-      sha256 = "1ypymrxq3cgz7pflg5pfkm90g29v3dz4n8a77c8hapk6lvcwwdq3";
+      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-f8547509011445399efb1f50f1ad4bb2d033e215/foundry_nightly_linux_amd64.tar.gz";
+      sha256 = "03pgz80hw06n1njkqiwg48b598psxrqwkpa2851h1mnaq3ha45p4";
     };
     "aarch64-linux" = {
-      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-8e47a24a36283247c57fd735d1e6db961ca5efc1/foundry_nightly_linux_arm64.tar.gz";
-      sha256 = "10pi3r6g0ic55vhxzw76lrnl3w5c3g5c7ysn6qsv1xva71skai1q";
+      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-f8547509011445399efb1f50f1ad4bb2d033e215/foundry_nightly_linux_arm64.tar.gz";
+      sha256 = "1pf3cfrpj0cyvp5nwcrwd7li7z16w9cyqwd9mw870xdv8xal5qsy";
     }; 
     "x86_64-darwin" = {
-      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-8e47a24a36283247c57fd735d1e6db961ca5efc1/foundry_nightly_darwin_amd64.tar.gz";
-      sha256 = "074p410yv7qhvafla2ymkv321zg9am06z4b21bs0sznf52bmchh3";
+      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-f8547509011445399efb1f50f1ad4bb2d033e215/foundry_nightly_darwin_amd64.tar.gz";
+      sha256 = "11hjqbg8ad1xiblka88b0czi2fh65w1nhkg0g1bpghp0z73skmwp";
     };
     "aarch64-darwin" = {
-      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-8e47a24a36283247c57fd735d1e6db961ca5efc1/foundry_nightly_darwin_arm64.tar.gz";
-      sha256 = "1rmy5sb99970x4270wnpyl4n6mn7zf13gv7n024naf3l9q2h5rna";
+      url = "https://github.com/foundry-rs/foundry/releases/download/nightly-f8547509011445399efb1f50f1ad4bb2d033e215/foundry_nightly_darwin_arm64.tar.gz";
+      sha256 = "19mcmrvl7kin4s37951sjli7pnngbfkkixbclz16i0m6m376ibh0";
     };
   };
 }
